@@ -10,12 +10,10 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 
 ### Introduction to Myself :-
-My name is Sara EL-Mustafah
-26 years old
-Network Engineer
+My name is Sara EL-Mustafah,26 years old,Network Engineer.
 
 
 **My GitHub portfolio page** [Click here](https://github.com/Sara-ELMustafah)
 
 
-![My Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
+![Image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
